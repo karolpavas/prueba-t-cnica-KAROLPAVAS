@@ -1,1 +1,1 @@
-# prueba-t-cnica-KAROLPAVAS
+# prueba-técnica-KAROLPAVAS
