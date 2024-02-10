@@ -148,3 +148,52 @@ footer{
 .cuadro-texto p{
     color: black;
 }
+
+  /*sección nuestro campus*/
+  .contenedor-nuestro-campus {
+    position: relative;
+    width: 100vw;
+    height: 65vh;
+    overflow: hidden;
+}
+
+.contenedor-nuestro-campus img {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.contenedor-nuestro-campus h2{
+    color:white;
+    font-size: 50px;
+}
+.cuadro-texto-nuestro-campus {
+    position: absolute;    
+    width: 700px;
+    height: 250px;
+    padding: 40px;
+    border-radius: 15px;
+    color: black; /* Color del texto */
+    text-align: left;
+    margin: 150px 0px 50px 20px;
+}
+.cuadro-texto-nuestro-campus p{
+    color: white;
+}
+.boton-conoce-mas-nuestro-campus {
+    display: block;
+    background-color: #F4D73B;
+    color: #0069A3;
+    text-decoration: none;
+    border-radius: 5px;
+    width: 138px;
+    height: 39px;
+    opacity: 1;
+    font-size: 16px;
+    padding: 7px;
+    text-align: center;
+    margin-top: 5px;
+    font-weight: bold;
+}
